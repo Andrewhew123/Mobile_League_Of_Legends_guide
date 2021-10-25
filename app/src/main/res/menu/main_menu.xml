@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cm_about"
+        android:title="About LoL" />
+    <item
+        android:id="@+id/cm_champion"
+        android:title="Champions" />
+    <item
+        android:id="@+id/cm_roles"
+        android:title="Favorite Roles">
+        <menu>
+            <item
+                android:id="@+id/cm_edit"
+                android:title="Add Roles" />
+            <item
+                android:id="@+id/cm_show"
+                android:title="Show Roles" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/cm_exit"
+        android:title="Exit" />
+</menu>

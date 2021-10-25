@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">League of Legends Guide</string>
+
+    <string-array name="mage">
+        <item>Annie</item>
+        <item>Veigar</item>
+        <item>Ahri</item>
+    </string-array>
+
+    <string-array name="mageAbility">
+        <item>"Disintegrate, Incinerate, Molten shield, Pyromania, Summon: Tibbers"</item>
+        <item>"Baleful Strike, Dark Matter, Equilibrium, Event Horizon, Primordial Burst"</item>
+        <item>"Charm, Fox-Fire, Orb of Deception, Spirit Rush, Vastayan Grace"</item>
+    </string-array>
+
+    <string-array name="mageAtkSpeed">
+        <item>"Attack Speed: 0.579 (+1.36% per level)"</item>
+        <item>"Attack Speed: 0.625 (+2.24% per level)"</item>
+        <item>"Attack Speed: 0.668 (+2% per level)"</item>
+    </string-array>
+
+    <string-array name="mageAtkDmg">
+        <item>"Attack Damage: 50.41 (+2.625 per level)"</item>
+        <item>"Attack Damage: 50.71 (+2.625 per level)"</item>
+        <item>"Attack Damage: 50.61 (+2.625 per level)"</item>
+    </string-array>
+
+
+    <string-array name="marksman">
+        <item>Ashe</item>
+        <item>Caitlyn</item>
+        <item>Miss Fortune</item>
+    </string-array>
+
+    <string-array name="marksmanAbility">
+        <item>"Enchanted crystal arrow, Frost shot, Hawkshot, Ranger's focus, Volley"</item>
+        <item>"90 Caliber Net, Ace in the Hole, Headshot, Piltover, Peacemaker, Yordle Snap Trap"</item>
+        <item>"Bullet time, Double up, Impure shots, Make it rain, Strut"</item>
+    </string-array>
+
+    <string-array name="MarksmanAtkSpeed">
+        <item>"Attack Speed: 0.658 (+3.33% per level)"</item>
+        <item>"Attack Speed: 0.625 (+4% per level)"</item>
+        <item>"Attack Speed: 0.656 (+3.01% per level)"</item>
+    </string-array>
+
+    <string-array name="MarksmanAtkDmg">
+        <item>"Attack Damage: 61 (+2.96 per level)"</item>
+        <item>"Attack Damage: 50.04 (+3 per level)"</item>
+        <item>"Attack Damage: 49.54 (+3 per level)"</item>
+    </string-array>
+
+
+    <string-array name="fighter">
+        <item>Garen</item>
+        <item>Lee Sin</item>
+        <item>Warwick</item>
+    </string-array>
+
+    <string-array name="figherAbility">
+        <item>"Courage, Decisive strike, Demacian justice, Judgment, Perseverance"</item>
+        <item>"Dragon's rage, Flurry, Safeguard / Iron will, Sonic wave / Resonating strike, Tempest / Cripple"</item>
+        <item>"Blood Hunt, Eternal Hunger, Infinite Duress, Jaws of the Beast, Primal Howl"</item>
+    </string-array>
+
+    <string-array name="fighterAtkSpeed">
+        <item>"Attack Speed: 0.625 (+2.9% per level)"</item>
+        <item>"Attack Speed: 0.651 (+3% per level)"</item>
+        <item>"Attack Speed: 0.679 (+2.88% per level)"</item>
+    </string-array>
+
+    <string-array name="fighterAtkDmg">
+        <item>"Attack Damage: 57.88 (+3.5 per level)"</item>
+        <item>"Attack Damage: 61.176 (+3.2 per level)"</item>
+        <item>"Attack Damage: 62.43 (+3.375 per level)"</item>
+    </string-array>
+
+
+    <string-array name="tank">
+        <item>Galio</item>
+        <item>Malphite</item>
+        <item>Volibear</item>
+    </string-array>
+
+    <string-array name="tankAbility">
+        <item>"Bulwark, Idol of durand, Resolute smite, Righteous gust, Runic skin"</item>
+        <item>"Brutal strikes, Granite shield, Ground slam, Seismic shard, Unstoppable force"</item>
+        <item>"Chosen of the Storm, Frenzy, Majestic Roar, Rolling Thunder, Thunder Claws"</item>
+    </string-array>
+
+    <string-array name="tankAtkSpeed">
+        <item>"Attack Speed: 0.638 (+1.2% per level)"</item>
+        <item>"Attack Speed: 0.638 (+3.4% per level)"</item>
+        <item>"Attack Speed: 0.658 (+2.67% per level)"</item>
+    </string-array>
+
+    <string-array name="tankAtkDmg">
+        <item>"Attack Damage: 61.97 (+3.375 per level)"</item>
+        <item>"Attack Damage: 61.97 (+3.375 per level)"</item>
+        <item>"Attack Damage: 59.544 (+3.3 per level)"</item>
+    </string-array>
+
+
+    <string-array name="assassin">
+        <item>Akali</item>
+        <item>Evelynn</item>
+        <item>Zed</item>
+    </string-array>
+
+    <string-array name="assassinAbility">
+        <item>"Assassin's Mark, Five Point Strike, Perfect Execution, Shuriken Flip, Twilight Shroud"</item>
+        <item>"Agony's embrace, Dark frenzy, Hate spike, Ravage, Shadow walk"</item>
+        <item>"Contempt for the weak, Death mark, Living shadow, Razor shuriken, Shadow slash"</item>
+    </string-array>
+
+    <string-array name="assassinAtkSpeed">
+        <item>"Attack Speed: 0.625 (+3.2% per level)"</item>
+        <item>"Attack Speed: 0.625 (+3.6% per level)"</item>
+        <item>"Attack Speed: 0.644 (+2.1% per level)"</item>
+    </string-array>
+
+    <string-array name="assassinAtkDmg">
+        <item>"Attack Damage: 62.4 (+3.3 per level)"</item>
+        <item>"Attack Damage: 53.88 (+3.5 per level)"</item>
+        <item>"Attack Damage: 54.712 (+3.4 per level)"</item>
+    </string-array>
+
+
+    <string-array name="support">
+        <item>Blitzcrank</item>
+        <item>Nami</item>
+        <item>Soraka</item>
+    </string-array>
+
+    <string-array name="supportAbility">
+        <item>"Mana barrier, Overdrive, Power fist, Rocket grab, Static field"</item>
+        <item>"Aqua prison, Ebb and flow, Surging tides, Tidal wave, Tidecaller's blessing"</item>
+        <item>"Astral infusion, Equinox, Salvation, Starcall, Wish"</item>
+    </string-array>
+
+    <string-array name="supportAtkSpeed">
+        <item>"Attack Speed: 0.625 (+1.13% per level)"</item>
+        <item>"Attack Speed: 0.644 (+2.61% per level)"</item>
+        <item>"Attack Speed: 0.625 (+2.14% per level)"</item>
+    </string-array>
+
+    <string-array name="supportAtkDmg">
+        <item>"Attack Damage: 61.54 (+3.5 per level)"</item>
+        <item>"Attack Damage: 51.208 (+3.1 per level)"</item>
+        <item>"Attack Damage: 50.04 (+3 per level)"</item>
+    </string-array>
+
+    <string-array name="guide">
+        <item>"Interaction with minions and opponent"</item>
+        <item>"Removing a turrent"</item>
+        <item>"Team fight with multiple Champions"</item>
+        <item>"Victory secured"</item>
+    </string-array>
+
+    <string-array name="num">
+        <item>"1."</item>
+        <item>"2."</item>
+        <item>"3."</item>
+    </string-array>
+
+</resources>
